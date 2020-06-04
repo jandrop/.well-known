@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vanlanschot.evi.mobiel.uat",
+    "sha256_cert_fingerprints":
+    ["CE:15:65:48:94:E0:1B:58:E4:68:F3:D5:2B:78:07:7D:53:75:7A:6D:31:C0:6F:C0:B5:28:81:5D:1D:6A:B1:EF"]
+  }
+}] 
