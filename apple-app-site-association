@@ -11,7 +11,7 @@
                 "paths": ["*", "/status/*"],
             },
             {
-                "appID": "com.ios.firma",
+                "appID": "NYG7RZQ8V6.com.ios.firma",
                 "paths": ["*", "/samlresponse/*"]
             }
         ]
